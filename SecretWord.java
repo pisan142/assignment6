@@ -53,6 +53,9 @@ public class SecretWord {
     // prompt user multiple times if input is bad
     char promptAndGetLetter() {
         // TODO - fix return
+        //    should handle the following prints:
+        //    System.out.print("Guess a letter: ");
+        //    System.out.println("Bad input!");
         return 'a';
     }
 
