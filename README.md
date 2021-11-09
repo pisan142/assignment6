@@ -1,4 +1,5 @@
 # Assignment 6: SecretWord
+## Unit test run tests on SecretWord.java, so make sure not to delete/change the methods' names, signature, or return types. You can change/delete Main.java as you wish.
 <br>
 <!--
 ## Steps to download and work on the assignment
